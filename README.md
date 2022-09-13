@@ -8,10 +8,12 @@
 - 🤔 I’m looking for help with Front-End Developer Oppurtunities 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
 - 📫 How to reach me: 
-- ⚡ Fun fact: Dream Destination "The Big :apple:", love travel, cooking especially spicy delicacies. 
+- ⚡ Fun facts: love travel :airplane: _ Dream Destination "The Big :apple:", Longyearbyen... , cooks spicy delicacies. 
 
 ![Vaisakh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbnair&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbnair&layout=compact)](https://github.com/vbnair/github-readme-stats)
+
+
 
 
 -->
