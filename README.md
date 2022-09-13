@@ -8,7 +8,7 @@
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vaisakhbalakrishnan/">
          <img align="center" alt="LinkedIn" height="20px" width="60px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-- ⚡ Fun facts: love travelling :airplane:  #Dream Destination "The Big :apple:", #Longyearbyen... , cooks spicy delicacies. 
+- ⚡ Fun facts: love travelling :airplane:, cooks spicy delicacies 👨‍🍳 , practice Taekwondo 🥋. 
 
 
 <br />
