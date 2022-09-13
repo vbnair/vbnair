@@ -29,10 +29,10 @@ STATS
 <br />
 <div>
 <a href="https://github.com/vbnair/vbnair">
-<img align="left" alt="GitHub stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=vbnair&show_icons=true&theme=radical"/>
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vbnair&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/vbnair/vbnair">
-<img align="left" alt="GitHub stats" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbnair&layout=compact"/>
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbnair"/>
 </a>
 <div/>
 
