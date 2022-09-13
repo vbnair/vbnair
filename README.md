@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with Front-End Developer Oppurtunities 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vaisakhbalakrishnan/">
-         <img align="center" alt="LinkedIn" height="20px" width="60px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-          </a>
+         <img align="center" alt="LinkedIn" height="20px" width="60px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 - ⚡ Fun facts: love travelling :airplane:  #Dream Destination "The Big :apple:", #Longyearbyen... , cooks spicy delicacies. 
 
 
@@ -23,7 +22,6 @@
 <img align="left" alt="NodeJS" height="20px" width="75px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <div/>
 <br />
-
 <br />
 <br />
 STATS
@@ -31,14 +29,16 @@ STATS
 <br />
 <div>
 <a href="https://github.com/vbnair/vbnair">
-<img align="left" alt="GitHub stats" width="35%" src="https://github-readme-stats.vercel.app/api?username=vbnair&show_icons=true&theme=radical"/>
+<img align="left" alt="GitHub stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=vbnair&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/vbnair/vbnair">
-<img align="left" alt="GitHub stats" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbnair&layout=compact"/>
+<img align="left" alt="GitHub stats" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbnair&layout=compact"/>
 </a>
 <div/>
 
 <br>
+<br />
+<br />
 <br />
 <br />
 <br />
