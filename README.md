@@ -32,7 +32,7 @@ STATS
 <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vbnair&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/vbnair/vbnair">
-<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbnair"/>
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbnair&langs_count=10"/>
 </a>
 <div/>
 
