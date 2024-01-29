@@ -1,8 +1,8 @@
 ### Hey, I am Vaisakh 👋
 
 
-- 🔭 I’m currently working on Front-End Projects.
-- 🌱 I’m currently learning Full Stack Development, Data Analytics.
+- 🔭 I’m currently working on Front-End/ Full Stack Projects.
+- 🌱 I’m currently learning AI Engineering, Data Analytics.
 - 👯 I’m looking to collaborate on Front-End Development Projects.
 - 🤔 I’m looking for help with Front-End Developer Oppurtunities 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
