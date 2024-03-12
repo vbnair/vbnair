@@ -23,6 +23,10 @@
 <img align="left" alt="NodeJS" height="20px" width="75px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="left" alt="docker" height="20px" width="75px" src="https://badgen.net/badge/icon/docker?icon=docker&label"/> 
 <img align="left" alt="jira" src="https://badgen.net/badge/icon/jira?icon=jira&label"/> 
+<img align="left" alt="aws" height="20px" width="75px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+
+
+
 
 
          
