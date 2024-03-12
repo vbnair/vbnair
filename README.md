@@ -35,7 +35,7 @@
 <br />
 <br />
 <br />
-STATS
+:chart_with_upwards_trend: my GitHub Stats
 
 <br />
 <div>
@@ -63,7 +63,7 @@ Profile Visits
 <br />
 
 
-<img align="left" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=vbnair.vbnair"/>
+<img align="left" alt="visitor badge" src="(https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvbnair&label=Visitors&countColor=%23263759"/>
 
 <br />
 <br />
