@@ -20,6 +20,7 @@
 <img align="left" alt="Express.js" height="20px" width="75px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img align="left" alt="MongoDB" height="20px" width="75px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" alt="NodeJS" height="20px" width="75px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" alt="NodeJS" height="20px" width="75px" src="https://badgen.net/badge/icon/typescript?icon=typescript&label"/>        
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 <div/>
 <br />
