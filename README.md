@@ -35,7 +35,7 @@
 <br />
 <br />
 <br />
-:chart_with_upwards_trend: my GitHub Stats
+:chart_with_upwards_trend: my GitHub Stats <br />
 
 <br />
 <div>
