@@ -1,14 +1,14 @@
 ### Hey, I am Vaisakh 👋
 
 
-- 🔭 I’m currently working on Front-End/ Full Stack Projects.
-- 🌱 I’m currently learning AI Engineering, Data Analytics.
-- 👯 I’m looking to collaborate on Front-End Development Projects.
-- 🤔 I’m looking for help with Front-End Developer Oppurtunities 
+- 🔭 Currently immersed in crafting Front-End/ Full Stack solutions.
+- 🌱 Currently immersed in crafting Front-End/ Full Stack solutions.
+- 👯 Open for collaboration on innovative on Front-End/ Full Stack Development Projects.
+- 🤔 Exploring new Full Stack/ Front-End Developer Oppurtunities and seeking guidance. 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vaisakhbalakrishnan/">
          <img align="center" alt="LinkedIn" height="20px" width="60px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-- ⚡ Fun facts: love travelling :airplane:, cooks spicy delicacies 👨‍🍳 , practice Taekwondo 🥋. 
+- ⚡ Fun facts: Passionate about exploring new destinations :airplane:, whipping up flavorful and spicy delicacies 👨‍🍳 , practice Taekwondo 🥋. 
 
 
 <br />
