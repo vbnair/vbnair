@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently immersed in crafting Front-End/ Full Stack solutions.
-- 🌱 Currently immersed in crafting Front-End/ Full Stack solutions.
+- 🌱  Actively delving into the realms of AI Engineering and Data Analytics.
 - 👯 Open for collaboration on innovative on Front-End/ Full Stack Development Projects.
 - 🤔 Exploring new Full Stack/ Front-End Developer Oppurtunities and seeking guidance. 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
