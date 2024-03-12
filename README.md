@@ -21,7 +21,7 @@
 <img align="left" alt="Express.js" height="20px" width="65px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img align="left" alt="MongoDB" height="20px" width="65px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" alt="NodeJS" height="20px" width="65px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" alt="Python" height="20px" width="60px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img align="left" alt="Python" height="20px" width="60px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><br />
 <img align="left" alt="docker" height="20px" width="75px" src="https://badgen.net/badge/icon/docker?icon=docker&label"/> 
 <img align="left" alt="jira" src="https://badgen.net/badge/icon/jira?icon=jira&label"/> 
 <img align="left" alt="aws" height="20px" width="50px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
