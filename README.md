@@ -1,14 +1,14 @@
 ### Hey, I am Vaisakh 👋
 
 
-- 🔭 Currently immersed in crafting Front-End/ Full Stack solutions.
-- 🌱  Actively delving into the realms of AI Engineering and Data Analytics.
+- 🔭 Currently immersed in crafting Crafting Impactful, Human-Centric Solutions.🌍💡👨🏻‍💻
+- 🌱 Actively delving into the realms of AI Engineering and Data Analytics.
 - 👯 Open for collaboration on innovative on Front-End/ Full Stack Development Projects.
-- 🤔 Exploring new Full Stack/ Front-End Developer Oppurtunities and seeking guidance. 
+- 🤔 Exploring new Full Stack/ Front-End Developer Oppurtunities. 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vaisakhbalakrishnan/">
          <img align="center" alt="LinkedIn" height="20px" width="60px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-- ⚡ Fun facts: Passionate about exploring new destinations :airplane:, whipping up flavorful and spicy delicacies 👨‍🍳 , practice Taekwondo 🥋. 
+- ⚡ Fun facts: Passionate about exploring new destinations :airplane:, whipping up flavorful and spicy delicacies 👨‍🍳, practice Taekwondo 🥋. 
 
 
 <br />
