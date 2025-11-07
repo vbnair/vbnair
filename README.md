@@ -30,7 +30,8 @@
 
 ### 🧩 Functional & Domain Expertise
 
-- 🖥️ **Full-Stack Engineering** (Python, JavaScript/ TypeScript, Node.js, React, Next.js, Express.js)
+- 🖥️ **Full-Stack Engineering**
+  Building end-to-end web applications using Python, JavaScript/TypeScript, Node.js, React, Next.js, and Express.js — especially in agile, self-driven environments.
 
 - 💼 **Banking & Compliance Tech**  
   Working on surveillance and monitoring platforms in a large Nordic bank, integrating communication data across channels, and aligning deployments with internal audit and regulatory standards.
