@@ -18,7 +18,7 @@
   Kubernetes · Docker · AWS · Cloud, On-Prem & Hybrid Deployments
 
 - 🔗 **Enterprise Data Integrations**  
-  Kafka · RabbitMQ · OpenSearch · XML/JSON ingestion from sources
+  Kafka · RabbitMQ · OpenSearch · Data integration via APIs, XML/JSON, Graph, flat files, and batch feeds
   
 - 🛡️ **Compliance & Logging**  
   YAML-driven deployments · Secure data flow · Kafka pipelines · Monitoring & alerting (Prometheus, Grafana)
