@@ -6,27 +6,31 @@
 - 👯 Open for collaboration on innovative on Front-End/ Full Stack Development Projects.
 - 🤔 Exploring new Full Stack/ Front-End Developer Oppurtunities. 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
+  
+---
 
 ### 🚀 Current Focus
 
 - 🔧 **DevOps & Platform Operations**  
   ArgoCD · Helm · Jenkins · GitHub Actions · Ansible · CI/CD Pipelines
 
-- ☁️ **Cloud & Containers**  
-  Kubernetes · Docker · AWS · On-Prem Hybrid Deployments
+- ☁️ **Cloud and Orchestration**  
+  Kubernetes · Docker · AWS · Cloud, On-Prem & Hybrid Deployments
 
 - 🔗 **Enterprise Data Integrations**  
   Kafka · RabbitMQ · OpenSearch · XML/JSON ingestion from sources
   
-- 🛡️ **Compliance & Audit Logging**  
+- 🛡️ **Compliance & Logging**  
   YAML-driven deployments · Secure data flow · Kafka pipelines · Monitoring & alerting (Prometheus, Grafana)
 
-- 📦 **System Design & Ops Coordination**  
+- 📦 **System Design & Cross-Functional Technical Delivery**  
   Vendor-driven platforms · GitOps · UAT validation · Functional–technical handoff workflows
 
 ---
 
 ### 🧩 Functional & Domain Expertise
+
+- 🖥️ **Full-Stack Engineering** (Python, JavaScript/ TypeScript, Node.js, React, Next.js, Express.js)
 
 - 💼 **Banking & Compliance Tech**  
   Working on surveillance and monitoring platforms in a large Nordic bank, integrating communication data across channels, and aligning deployments with internal audit and regulatory standards.
@@ -34,8 +38,8 @@
 - 🔁 **Integration Delivery & Incident Management**  
   Skilled in driving functional onboarding of new data sources, testing system behavior, and handling incident and change processes in enterprise-scale environments.
 
-- 🧳 **Previous Experience in Travel & EdTech**  
-  
+- 🧳 **Travel & EdTech**  
+  Business operations, client management, and market validation. Combines tech capabilities with cross-functional communication and execution.
 
 ---
 
