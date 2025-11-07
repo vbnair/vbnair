@@ -6,6 +6,40 @@
 - 👯 Open for collaboration on innovative on Front-End/ Full Stack Development Projects.
 - 🤔 Exploring new Full Stack/ Front-End Developer Oppurtunities. 
 - 💬 Ask me about Tech, Trading/ Financial Markets, Travel.
+
+### 🚀 Current Focus
+
+- 🔧 **DevOps & Platform Operations**  
+  ArgoCD · Helm · Jenkins · GitHub Actions · Ansible · CI/CD Pipelines
+
+- ☁️ **Cloud & Containers**  
+  Kubernetes · Docker · AWS · On-Prem Hybrid Deployments
+
+- 🔗 **Enterprise Data Integrations**  
+  Kafka · RabbitMQ · OpenSearch · XML/JSON ingestion from sources
+  
+- 🛡️ **Compliance & Audit Logging**  
+  YAML-driven deployments · Secure data flow · Kafka pipelines · Monitoring & alerting (Prometheus, Grafana)
+
+- 📦 **System Design & Ops Coordination**  
+  Vendor-driven platforms · GitOps · UAT validation · Functional–technical handoff workflows
+
+---
+
+### 🧩 Functional & Domain Expertise
+
+- 💼 **Banking & Compliance Tech**  
+  Working on surveillance and monitoring platforms in a large Nordic bank, integrating communication data across channels, and aligning deployments with internal audit and regulatory standards.
+
+- 🔁 **Integration Delivery & Incident Management**  
+  Skilled in driving functional onboarding of new data sources, testing system behavior, and handling incident and change processes in enterprise-scale environments.
+
+- 🧳 **Previous Experience in Travel & EdTech**  
+  
+
+---
+
+
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vaisakhbalakrishnan/">
          <img align="center" alt="LinkedIn" height="20px" width="60px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 - ⚡ Fun facts: Passionate about exploring new destinations :airplane:, whipping up flavorful and spicy delicacies 👨‍🍳, practice Taekwondo 🥋. 
